@@ -23,7 +23,9 @@ Create a workflow in **n8n** that sends an email automatically when the user man
 ---
 
 ## 3. 📸 Implementation Screenshot  
-![Workflow Setup](# 🚀 Manual Workflow Trigger to Send Email using n8n
+
+<img width="919" height="387" alt="Screenshot 2025-11-23 110201" src="https://github.com/user-attachments/assets/83d3a6c2-0417-4b8c-b4f4-57a1f3d6ad60" />
+
 
 ## 1. 📌 Problem Statement  
 Create a workflow in **n8n** that sends an email automatically when the user manually triggers the workflow (by clicking **Execute Workflow**).
