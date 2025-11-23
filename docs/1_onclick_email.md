@@ -48,9 +48,10 @@ Create a workflow in **n8n** that sends an email automatically when the user man
 ---
 
 ## 3. 📸 Implementation Screenshot  
-![Workflow Setup](./Screenshot%202025-11-23%20110831.png)
 
-*(This screenshot shows the connected Manual Trigger and Gmail node in n8n.)*
+![Uploading Screenshot 2025-11-23 110201.png…]()
+
+
 
 ---
 
