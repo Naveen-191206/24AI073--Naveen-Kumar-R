@@ -1,0 +1,10 @@
+- Step 1: sign in to n8n
+- Step 2: create workflow
+- Step 3: click + symbol
+- Step 4: click schedule trigger
+- Step 5: Insert the Send Email Node
+- Step 6: Configure SMTP Credential
+- Step 7: Set Email Parameters
+- Step 8: Optional Enhancements
+- Step 9: Test the Workflow
+- Step 10: click Activate.
