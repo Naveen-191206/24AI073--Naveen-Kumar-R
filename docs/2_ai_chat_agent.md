@@ -45,15 +45,11 @@ Your workflow should look like this:
 
 ---
 
-# 4. Output Screenshot
 
-A mail should have reached the recipient mail like this:
-
-<img width="1920" height="1032" alt="Here&#39;s the information - sanjaynewbie2@gmail com - Gmail - Google Chrome 22-11-2025 11_11_06" src="https://github.com/user-attachments/assets/97d6c598-82e3-4595-acb6-37af2c2e77af" />
 
 ---
 
-# 5. Summary / Learning Outcome
+# 4. Summary / Learning Outcome
 
 By completing this setup, you learned:
 
